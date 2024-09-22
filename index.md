@@ -3,10 +3,11 @@ Hey there, welcome to my website!
 # Why does this website look so plain?
 I haven't had time to work on it, I will make it look better eventually.
 # Projects
-pcOS - https://go.retremorp.com/pcos
+pcOS - [https://go.retremorp.com/pcos](https://go.retremorp.com/pcos)
 # Social Media
-YouTube - https://go.retremorp.com/youtube
-GitHub - https://go.retremorp.com/github
+YouTube - [https://go.retremorp.com/youtube](https://go.retremorp.com/youtube)
+
+GitHub - [https://go.retremorp.com/github](https://go.retremorp.com/github)
 # I need support with one of your projects.
 If you need support with one of my projects, please do one of the following:
 
