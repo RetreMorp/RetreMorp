@@ -18,3 +18,5 @@ If you need support with one of my projects, please do one of the following:
 
 **If the issue is on any of my other projects**:
 - Report the issue on the repository page for the project.
+## Looking for the pcOS website?
+If you're looking for the pcOS website, please click [here](https://pcos.website/website).
